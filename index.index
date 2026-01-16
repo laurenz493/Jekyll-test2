@@ -1,0 +1,9 @@
+---
+layout: default
+title: Meine Hompage
+autor: Laurenz Dornetshuber
+---
+
+<h1>{{ page.titel }}</h1>
+<h2>{{ page.titel }}</h2>
+<p>Normaler Text mit dem Titel: {{ page.titel}}</p>
