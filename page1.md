@@ -7,4 +7,5 @@ author: Laurenz Dornetshuber
 Normaler **das wird fett** und das _italic_
 - erste zeile
 - zweite zeile
-Das ist ein Link: [Khevi](www.khevi.at)
+- 
+Das ist ein Link: [Khev](www.khev.at)
