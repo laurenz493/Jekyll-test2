@@ -69,3 +69,9 @@ kramdown:
   hard_wrap         : false
   footnote_nr       : 1
   show_warnings     : false
+
+title: "Laurenz Web-Site"         		-
+description: "Medien-Suche mit APIs"
+
+giphy_key: "HIER_DEIN_GIPHY_KEY"
+apileague_key: "HIER_DEIN_API_LEAGUE_KEY"
